@@ -10,8 +10,11 @@ module.exports = {
       colors: {
         "button-color": "#076787",
         "header-bg": "#F8FDFF",
+        "platform-bg": "#F5F8FA",
+        "card-first": "#85B6A6",
       },
       fontSize: {
+        "10xl": "20px",
         "11xl": "32px",
         "12xl": "40px",
         "13xl": "57px",
@@ -20,6 +23,7 @@ module.exports = {
       lineHeight: {
         "12xl": "44px",
         "13xl": "57px",
+        "14xl": "60px",
       },
       boxShadow: {
         input_shadow: " 0px 4px 15px 0px #07678726",

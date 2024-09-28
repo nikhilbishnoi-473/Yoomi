@@ -27,3 +27,17 @@ export const FOOTER_NEWS = [
     items: [{ text: "Recent " }],
   },
 ];
+export const PLATFORM_DATA = [
+  {
+    heading: "50%",
+    text: "Reduction in Pain",
+  },
+  {
+    heading: "90%",
+    text: "Increase In-Patient Satisfaction",
+  },
+  {
+    heading: "60%",
+    text: "Faster Recovery",
+  },
+];
